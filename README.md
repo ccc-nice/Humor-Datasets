@@ -11,7 +11,7 @@ This repository provides official access links and acquisition instructions for 
 ## 1. ColBERT (Humor Dataset)
 
 - Paper: https://doi.org/10.1016/j.eswa.2024.123685  
-- Dataset access: Please refer to the original paper and associated repository provided by the authors.
+- Dataset access: https://github.com/Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection
 
 ---
 
