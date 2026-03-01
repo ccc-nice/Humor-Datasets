@@ -38,8 +38,8 @@ This repository provides official access links and acquisition instructions for 
 
 ## 5. T-Humor Dataset
 
-The T-Humor classroom humor dataset will be publicly released upon acceptance and publication of the paper.
+Due to privacy and ethical considerations related to classroom instructional data, the T-Humor dataset cannot be publicly released at this stage.
 
-Researchers interested in academic access prior to publication may contact:
+Researchers interested in academic access for research purposes may contact:
 
 202413085404019@hainnu.edu.cn
